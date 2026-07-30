@@ -7,6 +7,9 @@ wp-content/cache/
 wp-content/upgrade/
 wp-content/debug.log
 
+# Local WordPress backups
+backups/
+
 # Dependencies
 node_modules/
 
