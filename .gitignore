@@ -1,0 +1,19 @@
+# Local environment variables
+.env
+
+# WordPress-generated content
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/debug.log
+
+# Dependencies
+node_modules/
+
+# Sass source maps
+*.css.map
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
